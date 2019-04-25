@@ -1,0 +1,10 @@
+weight: 2
+title: "业界领先的解决方案"
+description: >
+  <ul class="list-style-none">
+     <li>云计算基础设施方案</li>
+     <li>大数据教学与运行平台</li>
+     <li>分布式机器学习运行环境</li>
+     <li>VR/AR教学实验</li>
+   </ul>
+image: "img/carousel/template-mac.png"
